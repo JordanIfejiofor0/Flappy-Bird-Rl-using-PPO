@@ -4,7 +4,7 @@ from rlgame import FlappyBirdEnv
 from model import ActorCrtic
 
 
-MODEL_PATH = "output/FlappyBirdProject/1e4-1000Train.pth"
+MODEL_PATH = "output/FlappyBirdProject/1e4-500Train.pth"
 
 scores = []
 def test():
